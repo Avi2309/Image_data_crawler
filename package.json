@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "better-queue": "^3.8.6",
+    "express": "^4.16.2",
+    "get-image-urls": "^1.0.5",
+    "js-crawler": "^0.3.19",
+    "redis": "^2.8.0"
+  }
+}
